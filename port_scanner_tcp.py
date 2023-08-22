@@ -6,7 +6,7 @@ print("Procurando portas...\n")
 try:
     for port in ports:
         client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-        client.settimeout(0.09)
+        client.settimeout(0.1)
         code = client.connect_ex((ip, port))
         if code == 0:
             print(str(port) + " - Porta aberta", )
