@@ -19,4 +19,4 @@ try:
 except:
     print("Endereço de IP invalido.")
  
-    print("Scan finalizada")
+print("Scan finalizada")
