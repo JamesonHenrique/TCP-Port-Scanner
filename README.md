@@ -19,7 +19,7 @@ Este é um simples scanner de portas em Python que permite verificar se as porta
 
 3. Execute o programa Python, fornecendo o endereço IP que você deseja escanear como entrada:
    ```bash
-   python scanner.py
+   python port_scan_tcp.py
    ```
 
    O programa solicitará que você insira o endereço IP alvo.
