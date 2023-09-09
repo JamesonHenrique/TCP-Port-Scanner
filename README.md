@@ -9,7 +9,7 @@ Este é um simples scanner de portas em Python que permite verificar se as porta
 
 1. Clone o repositório para o seu computador:
    ```bash
-   git clone https://github.com/seu-usuario/TCP-Port-Scanner.git
+   git clone https://github.com/JamesonHenrique/TCP-Port-Scanner
    ```
 
 2. Navegue até o diretório do projeto:
